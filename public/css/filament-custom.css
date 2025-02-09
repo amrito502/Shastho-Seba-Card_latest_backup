@@ -1,0 +1,3 @@
+body[data-page="filament.resources.cards.create"] .filament-form-actions {
+    display: none !important;
+}
